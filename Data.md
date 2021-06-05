@@ -17,6 +17,13 @@
 
 [AMI corpus](https://github.com/gcunhase/AMICorpusXML) \[The AMI Meeting Corpus is a multi-modal data set consisting of 100 hours of meeting recordings.\]
 
+## Review
+
+[Opinosis](http://kavita-ganesan.com/opinosis-opinion-dataset/#.YLu3Ky21FQI) \[ 51 data points \]
+
+## Sentence
+
+[Sentence-compressed](https://paperswithcode.com/dataset/sentence-compression) \[ Large corpus of uncompressed and compressed sentences from news articles \]
 
 
 ## Source
