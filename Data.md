@@ -6,7 +6,9 @@
 
 [BBC News Summary](https://www.kaggle.com/pariza/bbc-news-summary) \[Summary to about 1/3]
 
-## Articles
+## Paper
+
+[scisumm-corpus](https://github.com/WING-NUS/scisumm-corpus)
 
 ## Guideline
 
