@@ -12,6 +12,10 @@
 
 [TalkSumm](https://github.com/levguy/talksumm)
 
+## Article
+
+[NewsRoom](https://paperswithcode.com/dataset/newsroom) \[large scale\]
+
 ## Guideline
 
 [WikiHow](https://www.kaggle.com/varunucl/wikihow-summarization)
