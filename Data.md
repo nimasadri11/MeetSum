@@ -43,3 +43,6 @@
 [nlp resources](https://github.com/mathsyouth/awesome-text-summarization)
 
 [kaggle](https://www.kaggle.com)
+
+
+[process the data](https://github.com/abisee/cnn-dailymail)
