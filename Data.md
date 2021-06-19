@@ -1,4 +1,20 @@
-# Summary dataset
+# Summary dataset used
+
+[News Summary](https://www.kaggle.com/edumunozsala/cleaned-news-summary) (.csv)
+
+[AMI corpus](https://github.com/gcunhase/AMICorpusXML) (text and summary)
+
+[WikiHow](https://www.kaggle.com/varunucl/wikihow-summarization) (.csv)
+
+# Data Processing
+
+1. Convert them to (text, summary) format
+
+We would have three directory TRAIN, VALIDATE, TEST 
+
+2. Convert each of directory to a set of bin to pass in the code.
+
+# Summary dataset found
 
 ## News
 
