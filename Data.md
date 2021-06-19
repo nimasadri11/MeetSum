@@ -2,7 +2,7 @@
 
 ## News
 
-[News Summary](https://www.kaggle.com/sunnysai12345/news-summary) \[Summary to a few words headline. [Extended, cleaned version](https://www.kaggle.com/edumunozsala/cleaned-news-summary) \]
+[News Summary](https://www.kaggle.com/sunnysai12345/news-summary) \[Summary to a few words headline. [Extended, cleaned version](https://www.kaggle.com/edumunozsala/cleaned-news-summary) \] -> This is what we picked
 
 [BBC News Summary](https://www.kaggle.com/pariza/bbc-news-summary) \[Summary to about 1/3, very long long long]
 
@@ -18,12 +18,12 @@
 
 ## Guideline
 
-[WikiHow](https://www.kaggle.com/varunucl/wikihow-summarization)
+[WikiHow](https://www.kaggle.com/varunucl/wikihow-summarization) -> This is what we picked
 
 ## Meeting
 
 
-[AMI corpus](https://github.com/gcunhase/AMICorpusXML) \[The AMI Meeting Corpus is a multi-modal data set consisting of 100 hours of meeting recordings.\]
+[AMI corpus](https://github.com/gcunhase/AMICorpusXML) \[The AMI Meeting Corpus is a multi-modal data set consisting of 100 hours of meeting recordings.\] -> This is what we picked
 
 ## Legal case report
 
@@ -46,3 +46,4 @@
 
 
 [process the data](https://github.com/abisee/cnn-dailymail)
+
