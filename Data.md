@@ -14,6 +14,8 @@ We would have three directory TRAIN, VALIDATE, TEST
 
 2. Convert each of directory to a set of bin to pass in the code.
 
+[Rederence ]https://github.com/abisee/cnn-dailymail
+
 # Summary dataset found
 
 ## News
