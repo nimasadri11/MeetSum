@@ -1,18 +1,20 @@
 # Summary dataset used
 
-[News Summary](https://www.kaggle.com/edumunozsala/cleaned-news-summary) (.csv)
+[News Summary](https://www.kaggle.com/edumunozsala/cleaned-news-summary) (.csv) We use file `cl_news_summary_more.csv` only
 
-[AMI corpus](https://github.com/gcunhase/AMICorpusXML) (text and summary)
+[AMI corpus](https://github.com/gcunhase/AMICorpusXML) (text and summary) For this one, summary is [here](https://github.com/gcunhase/AMICorpusXML/tree/master/data/ami-summary/abstractive), text is [here](https://github.com/gcunhase/AMICorpusXML/tree/master/data/ami-transcripts)
 
 [WikiHow](https://www.kaggle.com/varunucl/wikihow-summarization) (.csv)
 
 # Data Processing
 
-1. Convert them to (text, summary) format
+1. Download all the data above. 
 
-We would have three directory TRAIN, VALIDATE, TEST 
+2. run process1.py
 
-2. Convert each of directory to a set of bin to pass in the code.
+3. run process2.py
+
+python file needs package `tensorflow` and `stanza`
 
 [Rederence ](https://github.com/abisee/cnn-dailymail)
 
