@@ -31,7 +31,7 @@ def process(summary, text, nlp):
 
 
 def write(file, makevocab=False):
-    nlp = stanza.Pipeline(lang='en', processors='tokenize')
+    nlp = stanza.Pipeline(lang='en', processors='tokenize', use_gpu = True)
     if makevocab:
         vocab_counter = collections.Counter()
     with open(file, 'r') as f, open(os.path.join(finish_dir, 'train.bin') , 'wb') as writer:
