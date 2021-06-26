@@ -2,17 +2,15 @@
 
 [News Summary](https://www.kaggle.com/edumunozsala/cleaned-news-summary) (.csv) We use file `cl_news_summary_more.csv` only
 
-[AMI corpus](https://github.com/gcunhase/AMICorpusXML) (text and summary) For this one, summary is [here](https://github.com/gcunhase/AMICorpusXML/tree/master/data/ami-summary/abstractive), text is [here](https://github.com/gcunhase/AMICorpusXML/tree/master/data/ami-transcripts)
+[AMI corpus](https://github.com/gcunhase/AMICorpusXML) (text and summary) (meeting.zip has been uploaded)
 
 [WikiHow](https://www.kaggle.com/varunucl/wikihow-summarization) (.csv)
 
 # Data Processing
 
-1. Download all the data above. 
+1. Download News Summary, WikiHow. 
 
-2. run process1.py
-
-3. run process2.py
+2. run process.py
 
 python file needs package `tensorflow` and `stanza`
 
