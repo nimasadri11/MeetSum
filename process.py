@@ -43,7 +43,10 @@ def write(file, makevocab=False):
                 continue
             # get the text
             summary = (row[0]).lower()
-            text = (row[1]).lower()
+            if file == 'wikihowAll.csv':
+                text = (row[2]).lower()
+            else:
+                text = (row[1]).lower()
             abstract, article = process(summary, text, nlp)
             count += 1
             tf_example = example_pb2.Example()
@@ -113,3 +116,21 @@ if not os.path.exists(chunks_dir):
     os.makedirs(chunks_dir)
 write(file, True)
 chunk_file()
+
+file = 'AMItrain.csv'
+finish_dir = './outdir_AMItrain/'
+if not os.path.exists(finish_dir):
+    os.makedirs(finish_dir)
+write(file, True)
+
+file = 'AMItest.csv'
+finish_dir = './outdir_AMItest/'
+if not os.path.exists(finish_dir):
+    os.makedirs(finish_dir)
+write(file, True)
+
+file = 'AMIval.csv'
+finish_dir = './outdir_AMIval/'
+if not os.path.exists(finish_dir):
+    os.makedirs(finish_dir)
+write(file, True)
