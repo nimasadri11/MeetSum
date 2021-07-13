@@ -34,7 +34,7 @@ def write(file, makevocab=False):
     nlp = stanza.Pipeline(lang='en', processors='tokenize', use_gpu = True)
     if makevocab:
         vocab_counter = collections.Counter()
-    with open(file, 'r') as f, open(os.path.join(finish_dir, 'train.bin') , 'wb') as writer:
+    with open(file, 'r') as f:
         reader = csv.reader(f)
         count = 0
         for row in reader:
@@ -44,11 +44,14 @@ def write(file, makevocab=False):
             # get the text
             summary = (row[0]).lower()
             if file == 'wikihowAll.csv':
-                text = (row[2]).lower()
+                if len(row) >= 3:
+                    text = (row[2]).lower()
             else:
-                text = (row[1]).lower()
+                if len(row) >= 2:
+                    text = (row[1]).lower()
             abstract, article = process(summary, text, nlp)
             count += 1
+            """
             tf_example = example_pb2.Example()
             tf_example.features.feature['article'].bytes_list.value.extend([article.encode()])
             tf_example.features.feature['abstract'].bytes_list.value.extend([abstract.encode()])
@@ -56,7 +59,9 @@ def write(file, makevocab=False):
             str_len = len(tf_example_str)
             writer.write(struct.pack('q', str_len))
             writer.write(struct.pack('%ds' % str_len, tf_example_str))
+            """
             if makevocab:
+                print(count, flush=True)
                 art_tokens = article.split(' ')
                 abs_tokens = abstract.split(' ')
                 abs_tokens = [t for t in abs_tokens if t not in [SENTENCE_START, SENTENCE_END]] # remove these tags from vocab
@@ -65,7 +70,7 @@ def write(file, makevocab=False):
                 tokens = [t for t in tokens if t!=""] # remove empty
                 vocab_counter.update(tokens)
     if makevocab:
-        with open(os.path.join(vocab_dir, "vocab"), 'w') as writer:
+        with open(os.path.join(vocab_dir, "vocab-wiki"), 'w') as writer:
             for word, count in vocab_counter.most_common(VOCAB_SIZE):
                 writer.write(word + ' ' + str(count) + '\n')
                 
@@ -108,27 +113,26 @@ chunk_file()
 """
 
 file = 'wikihowAll.csv'
+"""
 finish_dir = './data/wiki/main/'
 chunks_dir = './data/wiki/chunks/'
 if not os.path.exists(finish_dir):
     os.makedirs(finish_dir)
 if not os.path.exists(chunks_dir):
-    os.makedirs(chunks_dir)
+"""
 write(file, True)
-chunk_file()
+#chunk_file()
 """
 file = 'AMItrain.csv'
-finish_dir = './outdir_AMItrain/'
+finish_dir = './data/meeting/main/'
 if not os.path.exists(finish_dir):
     os.makedirs(finish_dir)
 write(file, True)
-
 file = 'AMItest.csv'
 finish_dir = './outdir_AMItest/'
 if not os.path.exists(finish_dir):
     os.makedirs(finish_dir)
 write(file, True)
-
 file = 'AMIval.csv'
 finish_dir = './outdir_AMIval/'
 if not os.path.exists(finish_dir):
