@@ -14,10 +14,10 @@ def process(summary, text, nlp):
     s = nlp(summary)
     s_um = []
     for i, sentence in enumerate(s.sentences):
-        #s_um.append('<s>')
+        s_um.append('<s>')
         for token in sentence.tokens:
             s_um.append(token.text)
-        #s_um.append('</s>')
+        s_um.append('</s>')
     t = nlp(text)
     t_ex = []
     for i, sentence in enumerate(t.sentences):
@@ -93,6 +93,8 @@ VOCAB_SIZE = 200000
 CHUNK_SIZE = 1000 # num examples per chunk, for the chunked data
 
 vocab_dir = "./vocab"
+if not os.path.exists(vocab_dir):
+    os.makedirs(vocab_dir)
                 
 file = 'cl_news_summary_more.csv'
 finish_dir = './outdir_news/'
