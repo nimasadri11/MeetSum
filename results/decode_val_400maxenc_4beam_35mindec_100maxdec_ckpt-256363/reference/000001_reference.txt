@@ -1,0 +1,10 @@
+the project manager opened the meeting and introduced the project , describing what the project would involve , the role of each participant and the agenda for the first meeting .
+he the demonstrated the equipment the group would be using , and the group practiced using the smartboard by drawing their favourite animals .
+the project manager then went over the project budget .
+the industrial designer gave a brief presentation about his role and his initial ideas for the project , suggesting that the remote should be used for multiple devices and that the group should consider using bluetooth rather than infrared .
+the project manager then asked the others about their initial ideas .
+the user interface designer agreed that the remote should control multiple devices .
+they also discussed having glow in the dark buttons , using bluetooth instead of infrared and using a display and / or a joystick instead of conventional buttons .
+however , they were unsure about what the budget would allow .
+the project manager suggested that the remote should be rechargeable or not use much power , but this might be difficult if using bluetooth .
+the project manager closed the meeting .
