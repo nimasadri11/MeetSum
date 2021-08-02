@@ -144,4 +144,18 @@ if __name__ == '__main__':
         print(global2)
         scores = scorer.score([global1], [global2])
         print("ERROR:", scores)
+    
+    for file in os.listdir('./decode_val_400maxenc_4beam_35mindec_100maxdec_ckpt-256363/decoded'):
+        sub = file[:file.find('_')]
+        with open('./decode_val_400maxenc_4beam_35mindec_100maxdec_ckpt-256363/decoded/' + sub + '_decoded.txt', 'r') as f:
+            global1 = f.read().replace('\n', '')
+        with open('./decode_val_400maxenc_4beam_35mindec_100maxdec_ckpt-256363/reference/' + sub + '_reference.txt', 'r') as f2:
+            global2 = f2.read().replace('\n', '')
 
+        print("here2")
+        print("g1")
+        print(global1)
+        print("g2")
+        print(global2)
+        scores = scorer.score([global1], [global2])
+        print("ERROR:", scores)
