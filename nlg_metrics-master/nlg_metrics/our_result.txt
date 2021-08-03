@@ -1,0 +1,4615 @@
+here1
+g1
+the industrial designer presented the basic components and materials to the group , how they operate together .the marketing expert gave an evaluation of the prototype presentation .the user interface designer discussed the look of a remote and stressed the group did not include speech recognition .he suggested that a trendy and user-friendly remote were satisfied with the lcd screen .the user interface designer discussed the option of incorporating speech recognition .the marketing expert presented three important user requirements .the group decided that current trends are more important for current trends .they discussed
+g2
+the meeting begins and the marketing expert starts her presentation promptly , telling them that her research shows they need a focus - it is not possible to make a device that works on the whole house .the project manager steps in and informs them that they have instructions to eliminate the teletext idea because it is too complicated , and also said they must maintain the corporate image by using corporate designs and colors .the marketing expert resumes , talking about how remotes often get lost and that a light emitter might be useful .the industrial designer gives her presentation , talking about components , materials , and energy sources .they discuss giving the control different shapes to suit both adults and children , making the buttons various shapes , and putting a display clock on the control .the interface designer presents , talking about the features users like on a remote and suggesting that they make the remote a t-shape and add an alarm clock function .they discuss their target group and the possibility of removable plastic cases .they close the meeting deciding to do more research on the plastic cases .
+in score
+in extract list
+FOR LOOP
+in extract
+Start loading KnowItAll...
+Finish loading KnowItAll...
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+Start loading GoogleUniversalSentenceEncoder...
+Finish loading GoogleUniversalSentenceEncoder...
+5
+6
+7
+return
+ERROR: [22.246014311834855]
+here1
+g1
+the project manager [UNK] the decisions made in the previous meeting .the industrial designer discussed the interior workings of a remote and user interface .the user interface designer and the industrial designer presented their prototype design , showing how technologically innovative , and discussed what materials to use .they discussed colour , shapes and colors , ball , ball , and [UNK] .the marketing expert discussed the findings of a survey which indicated that younger users were interested in a speech recognition .the user interface designer and the industrial designer presented the prototype , and
+g2
+the project manager opened the meeting and stated that the goal for the current meeting was to select a movie to screen ." the usual suspects " or " the sixth sense " .agnes discussed the plot , ratings , and reviews and awards of the films to defend her choices .another team member proposed that the film club should select one of the seven movies he had selected .his selection of movies was based on rankings and awards .among his selections were " schindler 's list " , " the usual suspects " , " pulp fiction " , " goodfellas " , " silence of the lambs " , and " american beauty " .another team member proposed that the film club should screen " saving private ryan " , " pulp fiction " , " the silence of the lambs " , or " la vita e bella " .denis proposed that the club should screen " the big lebowski " and discussed with the team how to go about designing a poster .the team then decided which movie to screen , ultimately deciding upon " the big lebowski " .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [20.486861824239636]
+here1
+g1
+the project manager opens the meeting and stating the agenda .the industrial designer begins explaining the components of a remote and energy source and how they will be working on , which is working on the remote , which is relatively simple with a recharging station .it uses kinetic batteries and uses standard themes for speech recognition technology but says it should be original and user-friendly .the interface designer gives his presentation , an lcd screen , and about the features 's main functions .the interface designer discussed the option to include an lcd screen ,
+g2
+the project manager went over decisions from the previous meeting .the industrial designer presented the prototype and discussed its look , its internal components , and its interface .the marketing expert evaluated the product according to the initial product goals .the group then decided that enough of this criteria had been satisfied for the project to continue .the project manager presented the final cost of the device which exceeded the initial projected price point .the group decided to remove speech recognition but to propose to the management that it remain in the design .the group then discussed their effectiveness as a team .all members felt that they interacted well and that they felt they could be creative .the marketing expert felt that the market - research based approach would help the project 's success with consumers .the group did express , however , that the budget was overly constraining .the project manager instructed the group to fill out a final evaluation questionnaire .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [36.45908608869997]
+here1
+g1
+the project manager opens the meeting by going over the [UNK] minutes from the last meeting .the industrial designer discussed the interior workings of a remote and energy source and energy source , and how to create a [UNK] .the group decided that enough of their product design and possible features to include speech recognition .the user interface designer discussed how to create an interface for batteries .the user interface designer discussed the interior workings of a remote control and showed that young people are prepared to use .the project manager then the industrial designer
+g2
+the project manager opens the meeting by recapping the discussions of the previous meeting , telling the group this meeting 's agenda , and stating what each person will do for the next meeting .then the industrial designer talks about the components design and explains exactly what remotes do and how they operate .he also talks about batteries and chips .the interface specialist present research from the internet about user interface .he talks about minimizing the clutter on the remote , and suggests using a slide button like on a mouse .the marketing expert presents , talking about trend - watching and how fruits and vegetables are currently an important theme .they talk about making changable colors available and possibly including batteries with them .they discuss what the remote should look like in terms of shape color , and then talk about components , materials , and energy sources .then they close the meeting .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [42.730665287913254]
+here1
+g1
+the project manager introduced the upcoming project to the team members and discussed the roles of each team member .the team members then participated in an exercise in which they drew their favorite animal and described the project .the project manager briefed the team on the basis of using a remote which did not include an lcd screen .the industrial designer gave a presentation on the technical functions of a remote , describing options for batteries , and suggested that the remote should be trendy and user-friendly .the group acquainted themselves with the lcd screen and
+g2
+the project manager opened the meeting and introduced the project , describing what the project would involve , the role of each participant and the agenda for the first meeting .he the demonstrated the equipment the group would be using , and the group practiced using the smartboard by drawing their favourite animals .the project manager then went over the project budget .the industrial designer gave a brief presentation about his role and his initial ideas for the project , suggesting that the remote should be used for multiple devices and that the group should consider using bluetooth rather than infrared .the project manager then asked the others about their initial ideas .the user interface designer agreed that the remote should control multiple devices .they also discussed having glow in the dark buttons , using bluetooth instead of infrared and using a display and / or a joystick instead of conventional buttons .however , they were unsure about what the budget would allow .the project manager suggested that the remote should be rechargeable or not use much power , but this might be difficult if using bluetooth .the project manager closed the meeting .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [55.20821739642465]
+here1
+g1
+the project manager [UNK] the decisions made in the previous meeting .the industrial designer gave a presentation on the working design , and the interface concept for the remote and then the team members participated in an exercise in which they each drew their favorite animal and discussed what they liked about features .the marketing expert discussed the findings of a survey which indicated that users want an lcd which fancy - to use rubber and rubber or an lcd screen .the user interface designer discussed what materials would like to see when the device should be
+g2
+the industrial designer presented an analysis of cost and the manufacturing options that were available to the group .the marketing expert presented market trends and the organic trend that this project would adopt .she discussed materials that could be used to follow this trend .the user interface designer presented several interface concepts including voice recognition , a spinning wheel design , and a touch screen interface .the group then discussed the features of the device .they discussed the costs and benefits of using either voice recognition or the touch screen interface , and decided on voice recognition based on their marketing data that favored it .they decided to use solar power to power the device .the group discussed the non-traditional look the device could have since the voice recognition would allow it to be stationary .they discussed using rubber for the case .the group talked about hiding the complicated functions from the main interface , using rubber for the buttons , and having different cases to suit different tastes .the project manager reiterated that the product was being marketed towards the youth market , and then gave out assignments and instructed the group to work together to build the prototype .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [37.80198928874791]
+here1
+g1
+the industrial designer gave a presentation on the working design with the group and discussed their preference agenda .the industrial designer gave his presentation on the basic components of the remote , and the interface designer , presented two existing remote components .the user interface designer discussed the interior workings of the remote and the industrial designer , the industrial designer , and the industrial designer presented .the project manager discussed the projected price point and price point .the marketing expert presented an evaluation of the prototype and the group discussed their experiences with each group
+g2
+the project manager introduced the project to the group .the group set an agenda for the meeting and discussed the materials sent to them by the account manager .they discussed and explained their roles in the project .the group began a discussion about their initial ideas for the product .they discussed several usability features : adding speech recognition and an option to choose what to watch by channel or by content , reducing the number of buttons by using the television screen to display options , and adding a light adaptation system .all participants were instructed to gather more information for the next meeting , the functional design meeting .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [43.511366677685785]
+here1
+g1
+the project manager opened the meeting and went the minutes of the previous meeting the minutes of the previous meeting .the industrial designer gave a presentation on the basic components of a remote control device .the group discussed using large buttons for the buttons .the marketing expert gave an evaluation of the prototype .the user interface designer discussed the look of a remote .the group discussed using large buttons for the buttons .the marketing expert gave an evaluation of the prototype .the user interface designer talked about the technical functions of each participant
+g2
+the marketing expert reported on research which shows that users think most remotes are ugly , easily lost and bad for rsi .audio settings are rarely used , and the power , channel and volume buttons are used most often .the remote should be user-friendly and have a good look and feel .the marketing expert and project manager described the new requirements that the target group is users under 40 , the remote should not include teletext , should be only for tv , and should feature the corporate logo .the user interface designer showed examples of two contrasting remotes , recommending that they should use the best features of both .the group decided to use an lcd screen and speech recognition .the industrial designer described how a remote works , and explained that his presentation was incomplete because he had not received the necessary information in time .the group discussed what functions to include and the layout of the remote , and the marketing expert drew a possible design on the board .they decided to have buttons for the basic functions and make the advanced functions accessible through the screen .they also discussed what buttons would be needed to navigate the menu on the lcd screen .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [45.87428697800291]
+here1
+g1
+the project manager gave an agenda for the project as a whole .he presented an agenda for the rest of the rest , beginning with the group will decide on the basis of budget .the industrial designer gave a presentation on the basic components of a remote .the industrial designer presented options for batteries and energy sources and an energy source .he presented all the necessary internal components of a remote control device on the basis of using a radio station .the group discussed voice recognition and other capabilities to include in their design ,
+g2
+there are some new requirements for the project : the device will have to be for tv only , they should ignore the teletext function , as it is dated , and , also , the remote should be recognisable as a real reaction product .the target group will be people below 40 .the ui preferred an easy - to -use remote to a multi-function one .the function of the remote is relatively simple : by pressing a button a current is passed to the chip , and defines what signal is to be sent to the receiver ( the tv ) via infrared .the use of infrared , energy - efficient power source and cheap circuit was suggested .the remote could light up via led 's placed inside .functions like zapping are very prevalent , as well as complaints about remotes being easy to lose .it also transpires that customers like innovative technology like speech recognition .the design can focus on such customer needs , like finding a mechanism to locate a lost remote .the functions of the remote will include a back button to switch between two channels , volume , program selection , and speech recognition , with a focus on simplicity of design .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [23.443845477772502]
+here1
+g1
+the prototype presentation and the marketing expert gives the agenda .the user interface designer and the industrial designer presented their interface concept for the interface design , and the logo .the marketing expert gave an evaluation of the prototype and which indicated that users want an lcd screen .the user interface designer discussed how to create an interface for the remote , then presented existing [UNK] to the shape and layout .the marketing expert presented research on consumer preferences and [UNK] requirements .the team then discussed their experiences with the target of the prototype .
+g2
+the project manager opens the meeting by stating the agenda .the designers give the prototype presentation , showing their simple design that is based on a mango .they point out the company logo and led , and demonstrate how the device is palm-held and thumb-acessible .they also discuss the numerical , volume , channel , and power buttons as well as the color scheme .the marketing expert administers the product evaluation , and they rate each of the ten criteria on a scale of 1 - 7 . the criteria includes fancy look - and - feel , technological innovation , ease of use , look , whether people would be willing to spend 25 euros for it , whether its operating behavior matches the average user , ease of finding when lost , ease of learning to use , whether it will minimize rsi , incorporation of company colors and logo , and whether it follows the motto .they average the scores and get 1.9 . they check the product costing and find that their operating cost is 12.20 euros .in evaluating the project process they are pleased with their creativity , leadership , timing , teamwork , discussions , and overall product given the resources they had .they close the meeting by thanking one another .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [33.880644894653464]
+here1
+g1
+the project manager [UNK] the decisions made a new remote control device .the user interface designer and the industrial designer presented the prototype and displayed the interfaces of the interfaces of two existing remote components .the industrial designer gave a presentation on the working design of the device .the industrial designer gave a presentation on the working design of the device and suggested that there would be a docking station to use a lab .the group discussed how it would like a remote to be durable and that a remote should not include a docking station
+g2
+the user interface designer discussed some characteristics and functions to consider in designing the remote and introduced an idea for giving the remote international appeal by merging it with a system such as google .the industrial designer discussed the interior workings of a remote and presented options for components and materials which would keep costs low .the marketing expert presented consumer preferences and requirements .the project manager introduced the new requirements for the project .the team then discussed different features they could include in the design of the remote .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [46.71863352663308]
+here1
+g1
+the project manager opens the meeting by stating the agenda .the industrial designer gave an overview of components .the user interface designer interface designer and the interface specialist presented by the marketing expert .the user interface designer interface designer for the interface design taken [UNK] .the user interface designer presented several existing products which they discussed making the remote .the marketing expert presented an evaluation of the group .the group evaluated the prototype on the basis of using [UNK] , an lcd screen , and rubber push buttons .the marketing expert led the
+g2
+the project manager stated the agenda and set the goals for the current meeting .the industrial designer discussed different options for batteries , case materials and shapes , chips , and interface components and also discussed the components necessary for a speech recognition capable remote control .the user interface designer presented his concept for the interface design which he called the " millennium remote control " .the user interface designer also discussed with the team color options and how to make a " smart " remote which is in tune with the user 's preferences .the marketing expert discussed current findings from trend watching reports which indicated that there is a desire for products to have a fancy look and feel , be technologically innovative , be easy to use , incorporate a fruit and vegetable theme , and be spongy .the project manager gave the team members their assignments and then the team went over the decisions they had made and discussed whether to use titanium or rubber in their design .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [48.2394270092131]
+here1
+g1
+the project manager opens the meeting and went over the agenda .the industrial designer gave a presentation on the working design of the device and saying they will be designing it .he suggested that the device could be used with other speech recognition and materials used .the user interface designer talked about the necessary functions of the interface .the group discussed their initial ideas about the product design .they discussed making the remote able to include an lcd screen .the interface designer presented two prototypes to the group , the interface designer , and
+g2
+the project manager opened the meeting and then the user interface designer and industrial designer presented their prototype for the remote which featured an lcd screen , a scroll button , and a battery indicator .the marketing expert conducted a project evaluation of the prototype .the team found the remote to be fancy , innovative , fairly easy to use , available in different colors , fairly spongy , difficult to misplace , and targeted to younger people .the project manager then led the team in calculating the production costs of their remote .the team had difficulty in meeting the the target cost and had to eliminate some of the more expensive components they had hoped to include in their design .the project manager then led the team in an evaluation of the project process .the team found the project stressful , the equipment useful , the information available to them lacking , and their laptops to be slow and heavy .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [33.75819461332386]
+here1
+g1
+and the project manager opens the meeting by stating the agenda .the industrial designer gave a presentation on the working design of the device .the user interface designer compared the interfaces of two existing remote , and the group discussed .the project manager presented the goals of the meeting and went over the minutes of the discussion of the product .the industrial designer discussed the interior workings of a remote , and the team must decide which features to include in their own design .the team then discussed various features to consider in making the
+g2
+the project manager opened the meeting and introduced herself to the team .the project manager introduced the upcoming project in which the team is to create a remote control .the team members participated in a tool training exercise in which they each drew their favorite animal on the white - board and discussed why they liked the animal .the project manager then talked about the project finances and discussed selling prices , profit aim , market range , and production costs .the project manager then led the team in a discussion on their experiences with remotes and what features they would like to include in the remote they are producing .the team members discussed the option of combining remotes and how to produce a remote which is capable of controlling multiple devices .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [47.524660685815036]
+here1
+g1
+the project manager opened the meeting and went over the agenda .the user interface designer and the industrial designer presented the prototype , and displayed all of the components .the project manager asked the industrial designer to create a functional design .the remote should not include a docking station to help them get lost and he suggested that many features should be included in a lifetime design remote , a trendy yet user-friendly case .the project manager then described the layout of the remote and the group discussed what he would like to use .he
+g2
+the id and ui presented the drawing of a prototype .it is rounded , with the front made of hard plastic in different colours .the back , as well as the lower part of the front are made of titanium .the back has the logo and slogan of the company engraved in its middle .the buttons include oval digit buttons , arrow - shaped channel and volume controls in the middle ; below those , is the menu ( for the lcd ) and the video button .the lcd can be found at the lower section of the device .after the presentation , the product was evaluated .this was done on a scale of 1 ( excellent ) - 7 ( very bad ) on fancifulness , ease of use , finding the device when it is lost , hi-tech features , incorporation of fashion trends , and ergonomic design .because it was over budget , titanium was replaced by plastic and the speech recognition was discarded .they thought it would have been more sensible to have the component costs before the prototype design .finally , the team evaluated the project process in terms of creativity ( generally satisfied ) , leadership ( the process was democratic , not happy with management ) , teamwork ( happy with it ) , and means ( smartboard was ' a disaster ' and the digital pens only good for drawings ) .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [31.59202847043239]
+here2
+g1
+our corporate colour and design are being used on the product .according to to higher management the corporate image is being used on the product .[UNK] mm-hmm : `` you want me to get your slide show up ? '' : `` you want me to get your slide show up ? ''
+g2
+the meeting begins and the marketing expert starts her presentation promptly , telling them that her research shows they need a focus - it is not possible to make a device that works on the whole house .the project manager steps in and informs them that they have instructions to eliminate the teletext idea because it is too complicated , and also said they must maintain the corporate image by using corporate designs and colors .the marketing expert resumes , talking about how remotes often get lost and that a light emitter might be useful .the industrial designer gives her presentation , talking about components , materials , and energy sources .they discuss giving the control different shapes to suit both adults and children , making the buttons various shapes , and putting a display clock on the control .the interface designer presents , talking about the features users like on a remote and suggesting that they make the remote a t-shape and add an alarm clock function .they discuss their target group and the possibility of removable plastic cases .they close the meeting deciding to do more research on the plastic cases .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [13.662766327242954]
+here2
+g1
+the tag line is kind of one lineup , no coincidence and you get .`` you pick up on things that you did n't really notice the first time , did n't really notice the first time i do n't know if you 've seen any of those these days i do n't know if you 've seen any of those these lot of the times you go back and watch the movie again ''
+g2
+the project manager opened the meeting and stated that the goal for the current meeting was to select a movie to screen ." the usual suspects " or " the sixth sense " .agnes discussed the plot , ratings , and reviews and awards of the films to defend her choices .another team member proposed that the film club should select one of the seven movies he had selected .his selection of movies was based on rankings and awards .among his selections were " schindler 's list " , " the usual suspects " , " pulp fiction " , " goodfellas " , " silence of the lambs " , and " american beauty " .another team member proposed that the film club should screen " saving private ryan " , " pulp fiction " , " the silence of the lambs " , or " la vita e bella " .denis proposed that the club should screen " the big lebowski " and discussed with the team how to go about designing a poster .the team then decided which movie to screen , ultimately deciding upon " the big lebowski " .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [10.524783285121552]
+here2
+g1
+`` we 'll first look at the exterior of what we 've uh , '' yeah. says .`` it 's wo n't try to solve our problems , '' says [UNK] of outer casing .[UNK] : the `` voice recognition system '' is an a sort of clam - shell design and uh the um the top l_c_d_ screen that you can .
+g2
+the project manager went over decisions from the previous meeting .the industrial designer presented the prototype and discussed its look , its internal components , and its interface .the marketing expert evaluated the product according to the initial product goals .the group then decided that enough of this criteria had been satisfied for the project to continue .the project manager presented the final cost of the device which exceeded the initial projected price point .the group decided to remove speech recognition but to propose to the management that it remain in the design .the group then discussed their effectiveness as a team .all members felt that they interacted well and that they felt they could be creative .the marketing expert felt that the market - research based approach would help the project 's success with consumers .the group did express , however , that the budget was overly constraining .the project manager instructed the group to fill out a final evaluation questionnaire .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [7.872357681823024]
+here2
+g1
+early meeting of the uh design group , we need to make a final uh decision .um i'll : `` i i think we uh made some definite progress '' in remote areas , `` we need to pay a premium for something better ''
+g2
+the project manager opens the meeting by recapping the discussions of the previous meeting , telling the group this meeting 's agenda , and stating what each person will do for the next meeting .then the industrial designer talks about the components design and explains exactly what remotes do and how they operate .he also talks about batteries and chips .the interface specialist present research from the internet about user interface .he talks about minimizing the clutter on the remote , and suggests using a slide button like on a mouse .the marketing expert presents , talking about trend - watching and how fruits and vegetables are currently an important theme .they talk about making changable colors available and possibly including batteries with them .they discuss what the remote should look like in terms of shape color , and then talk about components , materials , and energy sources .then they close the meeting .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [12.483592820366434]
+here2
+g1
+engineers are using the same white - board file so we can work together on different or the same white - board file we can work together .they say all the t_v_s are uh , so y you should use the same white - board file .[UNK] are [UNK] and y you should feed the t_v_ .
+g2
+the project manager opened the meeting and introduced the project , describing what the project would involve , the role of each participant and the agenda for the first meeting .he the demonstrated the equipment the group would be using , and the group practiced using the smartboard by drawing their favourite animals .the project manager then went over the project budget .the industrial designer gave a brief presentation about his role and his initial ideas for the project , suggesting that the remote should be used for multiple devices and that the group should consider using bluetooth rather than infrared .the project manager then asked the others about their initial ideas .the user interface designer agreed that the remote should control multiple devices .they also discussed having glow in the dark buttons , using bluetooth instead of infrared and using a display and / or a joystick instead of conventional buttons .however , they were unsure about what the budget would allow .the project manager suggested that the remote should be rechargeable or not use much power , but this might be difficult if using bluetooth .the project manager closed the meeting .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [17.827503841803882]
+here2
+g1
+reviewer : we have a few options , plastic , rubber or wood .but there 's a few options , plastic , rubber or wood that would cost us more .`` we have to look into more detail , '' energy source says .`` we have to look into more detail , '' energy source says .
+g2
+the industrial designer presented an analysis of cost and the manufacturing options that were available to the group .the marketing expert presented market trends and the organic trend that this project would adopt .she discussed materials that could be used to follow this trend .the user interface designer presented several interface concepts including voice recognition , a spinning wheel design , and a touch screen interface .the group then discussed the features of the device .they discussed the costs and benefits of using either voice recognition or the touch screen interface , and decided on voice recognition based on their marketing data that favored it .they decided to use solar power to power the device .the group discussed the non-traditional look the device could have since the voice recognition would allow it to be stationary .they discussed using rubber for the case .the group talked about hiding the complicated functions from the main interface , using rubber for the buttons , and having different cases to suit different tastes .the project manager reiterated that the product was being marketed towards the youth market , and then gave out assignments and instructed the group to work together to build the prototype .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [17.48917637361989]
+here2
+g1
+points will be assigned to gather the data from programme or contents .we can think about an interface with uh well yeah , yeah , yeah , yeah , yeah .`` we can think about an interface with uh well yeah , yeah , yeah , yeah , yeah , yeah , yeah , yeah , yeah , yeah , '' says norman .
+g2
+the project manager introduced the project to the group .the group set an agenda for the meeting and discussed the materials sent to them by the account manager .they discussed and explained their roles in the project .the group began a discussion about their initial ideas for the product .they discussed several usability features : adding speech recognition and an option to choose what to watch by channel or by content , reducing the number of buttons by using the television screen to display options , and adding a light adaptation system .all participants were instructed to gather more information for the next meeting , the functional design meeting .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [8.810907671470426]
+here2
+g1
+kay offers a new presentations look at some current customers .our current customers are in the age group plus the age group forty plus .do you plug in the presentation ? are you look forward .
+g2
+the marketing expert reported on research which shows that users think most remotes are ugly , easily lost and bad for rsi .audio settings are rarely used , and the power , channel and volume buttons are used most often .the remote should be user-friendly and have a good look and feel .the marketing expert and project manager described the new requirements that the target group is users under 40 , the remote should not include teletext , should be only for tv , and should feature the corporate logo .the user interface designer showed examples of two contrasting remotes , recommending that they should use the best features of both .the group decided to use an lcd screen and speech recognition .the industrial designer described how a remote works , and explained that his presentation was incomplete because he had not received the necessary information in time .the group discussed what functions to include and the layout of the remote , and the marketing expert drew a possible design on the board .they decided to have buttons for the basic functions and make the advanced functions accessible through the screen .they also discussed what buttons would be needed to navigate the menu on the lcd screen .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [0.0]
+here2
+g1
+the top goal of this m um we will figure that out this m um we will tell you about it .`` um we are not even going to try to um , '' yeah. um the top goal of this m um we have to deal with .um the third requirement is that uh teletext is out of date and internet is replacing teletext .
+g2
+there are some new requirements for the project : the device will have to be for tv only , they should ignore the teletext function , as it is dated , and , also , the remote should be recognisable as a real reaction product .the target group will be people below 40 .the ui preferred an easy - to -use remote to a multi-function one .the function of the remote is relatively simple : by pressing a button a current is passed to the chip , and defines what signal is to be sent to the receiver ( the tv ) via infrared .the use of infrared , energy - efficient power source and cheap circuit was suggested .the remote could light up via led 's placed inside .functions like zapping are very prevalent , as well as complaints about remotes being easy to lose .it also transpires that customers like innovative technology like speech recognition .the design can focus on such customer needs , like finding a mechanism to locate a lost remote .the functions of the remote will include a back button to switch between two channels , volume , program selection , and speech recognition , with a focus on simplicity of design .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [17.310477235498738]
+here2
+g1
+the agenda for this meeting will go zero plus if you wanted to go zero plus .yeah. notice you have a number ten button for the two designers .alright , kinda christmas , kinda christmas , you know , okay , cool .`` we will evaluate it , given the criteria that we gave it , given our options ''
+g2
+the project manager opens the meeting by stating the agenda .the designers give the prototype presentation , showing their simple design that is based on a mango .they point out the company logo and led , and demonstrate how the device is palm-held and thumb-acessible .they also discuss the numerical , volume , channel , and power buttons as well as the color scheme .the marketing expert administers the product evaluation , and they rate each of the ten criteria on a scale of 1 - 7 . the criteria includes fancy look - and - feel , technological innovation , ease of use , look , whether people would be willing to spend 25 euros for it , whether its operating behavior matches the average user , ease of finding when lost , ease of learning to use , whether it will minimize rsi , incorporation of company colors and logo , and whether it follows the motto .they average the scores and get 1.9 . they check the product costing and find that their operating cost is 12.20 euros .in evaluating the project process they are pleased with their creativity , leadership , timing , teamwork , discussions , and overall product given the resources they had .they close the meeting by thanking one another .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [25.978168687763205]
+here2
+g1
+eighty percent of users would spend more money um .we had one hundred subjects , um , we observe their remote control use .the look is bad for the standard method for marketing , okay .
+g2
+the user interface designer discussed some characteristics and functions to consider in designing the remote and introduced an idea for giving the remote international appeal by merging it with a system such as google .the industrial designer discussed the interior workings of a remote and presented options for components and materials which would keep costs low .the marketing expert presented consumer preferences and requirements .the project manager introduced the new requirements for the project .the team then discussed different features they could include in the design of the remote .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [21.490766170058635]
+here2
+g1
+reviewer : not i hope that 's not too much not only only for the interface .[UNK] mm-hmm. an artist , but wo n't use it to not use or source for menus .uh mm uh have a look at this no it 's yeah , we will not use this no it 's concept of the interface , okay , so that 's not too much .`` it 's called the millennium remote control , '' w we will not use this .
+g2
+the project manager stated the agenda and set the goals for the current meeting .the industrial designer discussed different options for batteries , case materials and shapes , chips , and interface components and also discussed the components necessary for a speech recognition capable remote control .the user interface designer presented his concept for the interface design which he called the " millennium remote control " .the user interface designer also discussed with the team color options and how to make a " smart " remote which is in tune with the user 's preferences .the marketing expert discussed current findings from trend watching reports which indicated that there is a desire for products to have a fancy look and feel , be technologically innovative , be easy to use , incorporate a fruit and vegetable theme , and be spongy .the project manager gave the team members their assignments and then the team went over the decisions they had made and discussed whether to use titanium or rubber in their design .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [20.276454431188927]
+here2
+g1
+bob greene : we have to agree , all the colour colours are don don does nothing that 's only design .project manager , others have to agree , all the colour colours don don does it yeah .he says project manager is n't the size of the design fancy enough ? let 's give it a lot i think yeah .
+g2
+the project manager opened the meeting and then the user interface designer and industrial designer presented their prototype for the remote which featured an lcd screen , a scroll button , and a battery indicator .the marketing expert conducted a project evaluation of the prototype .the team found the remote to be fancy , innovative , fairly easy to use , available in different colors , fairly spongy , difficult to misplace , and targeted to younger people .the project manager then led the team in calculating the production costs of their remote .the team had difficulty in meeting the the target cost and had to eliminate some of the more expensive components they had hoped to include in their design .the project manager then led the team in an evaluation of the project process .the team found the project stressful , the equipment useful , the information available to them lacking , and their laptops to be slow and heavy .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [32.63596938254743]
+here2
+g1
+we 're gonna gonna in the water , ' if d be vertical , it 's like them .if d be vertical , don do n't require like batteries or do all remotes require batteries ? it 's like it in the water , so it 's like all the t_v_ stuff was here .
+g2
+the project manager opened the meeting and introduced herself to the team .the project manager introduced the upcoming project in which the team is to create a remote control .the team members participated in a tool training exercise in which they each drew their favorite animal on the white - board and discussed why they liked the animal .the project manager then talked about the project finances and discussed selling prices , profit aim , market range , and production costs .the project manager then led the team in a discussion on their experiences with remotes and what features they would like to include in the remote they are producing .the team members discussed the option of combining remotes and how to produce a remote which is capable of controlling multiple devices .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [13.20748759063854]
+here2
+g1
+well i'll show you the notes of the notes of the costs of kay .yeah. alright : `` i think w when i have that in my hand , it 's terrible , th then it 's terrible , it 's terrible , it 's terrible , it 's terrible , it 's terrible , it 's terrible .oh yeah alright .''
+g2
+the id and ui presented the drawing of a prototype .it is rounded , with the front made of hard plastic in different colours .the back , as well as the lower part of the front are made of titanium .the back has the logo and slogan of the company engraved in its middle .the buttons include oval digit buttons , arrow - shaped channel and volume controls in the middle ; below those , is the menu ( for the lcd ) and the video button .the lcd can be found at the lower section of the device .after the presentation , the product was evaluated .this was done on a scale of 1 ( excellent ) - 7 ( very bad ) on fancifulness , ease of use , finding the device when it is lost , hi-tech features , incorporation of fashion trends , and ergonomic design .because it was over budget , titanium was replaced by plastic and the speech recognition was discarded .they thought it would have been more sensible to have the component costs before the prototype design .finally , the team evaluated the project process in terms of creativity ( generally satisfied ) , leadership ( the process was democratic , not happy with management ) , teamwork ( happy with it ) , and means ( smartboard was ' a disaster ' and the digital pens only good for drawings ) .
+in score
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+1
+in extract list
+FOR LOOP
+in extract
+EXtracted
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+in for loop
+REturning
+returning from in extract list
+2
+3
+4
+5
+6
+7
+return
+ERROR: [12.633979790575777]

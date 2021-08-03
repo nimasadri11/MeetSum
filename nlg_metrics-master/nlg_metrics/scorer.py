@@ -130,11 +130,11 @@ if __name__ == '__main__':
     scorer = FactScorer()
     global1 = ""
     global2 = ""
-    for file in os.listdir('./meetingOnly/decoded'):
+    for file in os.listdir('./advancedModel/decoded'):
         sub = file[:file.find('_')]
-        with open('./meetingOnly/decoded/' + sub + '_decoded.txt', 'r') as f:
+        with open('./advancedModel/decoded/' + sub + '_decoded.txt', 'r') as f:
             global1 = f.read().replace('\n', '')
-        with open('./meetingOnly/reference/' + sub + '_reference.txt', 'r') as f2:
+        with open('./advancedModel/reference/' + sub + '_reference.txt', 'r') as f2:
             global2 = f2.read().replace('\n', '')
 
         print("here1")
