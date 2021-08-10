@@ -1,0 +1,10 @@
+there are some new requirements for the project : the device will have to be for tv only , they should ignore the teletext function , as it is dated , and , also , the remote should be recognisable as a real reaction product .
+the target group will be people below 40 .
+the ui preferred an easy - to -use remote to a multi-function one .
+the function of the remote is relatively simple : by pressing a button a current is passed to the chip , and defines what signal is to be sent to the receiver ( the tv ) via infrared .
+the use of infrared , energy - efficient power source and cheap circuit was suggested .
+the remote could light up via led 's placed inside .
+functions like zapping are very prevalent , as well as complaints about remotes being easy to lose .
+it also transpires that customers like innovative technology like speech recognition .
+the design can focus on such customer needs , like finding a mechanism to locate a lost remote .
+the functions of the remote will include a back button to switch between two channels , volume , program selection , and speech recognition , with a focus on simplicity of design .
